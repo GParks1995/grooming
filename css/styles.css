@@ -1,0 +1,334 @@
+/*
+ * Molly's Grooming Estimator – global styles
+ *
+ * This stylesheet defines the colour palette and basic layout rules
+ * used across the grooming estimator website. Colours are pulled
+ * directly from the Molly’s Dog Care brand guide so the site feels
+ * like an extension of the existing identity. The palette blends
+ * soft lavender with rich blues and purples, accented by gold for
+ * important calls to action. All measurements are expressed in
+ * relative units (rem and %) to ensure responsiveness across
+ * different screen sizes. Feel free to adjust spacing and sizing
+ * values to better suit your content once you see it in place.
+ */
+
+/* Root colour variables derived from the Molly's Dog Care brand guide */
+:root {
+  --color-primary: #B0A1C7;    /* Lavender Lab – main brand colour */
+  --color-secondary: #7B809E;  /* My Dog Blue – complements primary */
+  --color-accent: #EAB350;     /* Retriever Gold – used for buttons and highlights */
+  --color-dark: #392C4A;       /* Grape Dane – dark backdrop or text */
+  --color-light: #EAE0DF;      /* Pink Paw – light background for sections */
+  --max-width: 1200px;
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+}
+
+/* Global resets and base typography */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  line-height: 1.6;
+  color: var(--color-dark);
+  background-color: var(--color-light);
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-heading);
+  margin-top: 0;
+  color: var(--color-dark);
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+a {
+  color: var(--color-dark);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+/* Container to centre content and limit width */
+.container {
+  width: 90%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+/* Navigation bar */
+nav {
+  background-color: var(--color-dark);
+  color: white;
+  padding: 1rem;
+}
+
+nav .nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+nav li {
+  position: relative;
+}
+
+nav a {
+  color: white;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+nav a.button {
+  background-color: var(--color-accent);
+  color: var(--color-dark);
+}
+
+nav a.button:hover {
+  background-color: #d59f45;
+}
+
+/* Hero section */
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 3rem 0;
+  background-color: var(--color-primary);
+  color: var(--color-dark);
+}
+
+.hero .text {
+  flex: 1;
+  padding: 1rem;
+}
+
+.hero .text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero .text p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero .image {
+  flex: 1;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.hero img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Section titles */
+.section-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* Service cards */
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.service-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  flex: 1 1 280px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.service-card h3 {
+  margin-bottom: 0.75rem;
+  color: var(--color-primary);
+}
+
+.service-card p {
+  font-size: 0.95rem;
+  color: var(--color-dark);
+}
+
+/* CTA section */
+.cta {
+  background-color: var(--color-secondary);
+  color: white;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.cta h2 {
+  margin-bottom: 1rem;
+}
+
+.cta a.button {
+  background-color: var(--color-accent);
+  color: var(--color-dark);
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.cta a.button:hover {
+  background-color: #d59f45;
+}
+
+/* Estimate form styles */
+.estimate-form {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.estimate-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.estimate-form select,
+.estimate-form input[type="text"],
+.estimate-form textarea {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.estimate-form .addon-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.estimate-form .addon-item {
+  background-color: var(--color-light);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.estimate-form .addon-item.selected {
+  background-color: var(--color-primary);
+  border-color: var(--color-dark);
+  color: var(--color-dark);
+}
+
+.estimate-form .total {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.estimate-form button {
+  background-color: var(--color-accent);
+  color: var(--color-dark);
+  border: none;
+  padding: 0.75rem 1.25rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.estimate-form button:hover {
+  background-color: #d59f45;
+}
+
+/* Front desk page styles */
+.frontdesk-section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.frontdesk-section h2 {
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.frontdesk-section ul {
+  padding-left: 1.25rem;
+}
+
+.frontdesk-section li {
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  nav .nav-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  nav ul {
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  .hero {
+    padding: 2rem 1rem;
+  }
+  .hero .text h1 {
+    font-size: 2rem;
+  }
+  .services {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .estimate-form {
+    padding: 1rem;
+  }
+}

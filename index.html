@@ -2,17 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Molly’s Grooming – Meet Leila</title>
-  <!-- Import Google Fonts -->
+  <title>Molly’s Grooming – Meet Leila</title>
+  <!-- Typography and AOS animations -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
 </head>
 <body>
-  <!-- Navigation Bar -->
-  <nav>
+  <!-- Sticky navigation bar -->
+  <nav id="mainNav">
     <div class="nav-wrapper container">
       <div class="logo">Molly’s Grooming</div>
       <ul>
@@ -24,45 +24,64 @@
     </div>
   </nav>
 
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="container hero-container">
-      <div class="text">
-        <h1>Meet Leila</h1>
-        <p>Our master groomer combines years of experience with a heart for dogs. Leila’s artistry transforms every pup into their best self, whether it’s a quick clean up or a full haircut and style. Discover why so many dog parents trust her with their furry family members.</p>
-        <a class="button" href="estimate.html">Get an Estimate</a>
-      </div>
-      <div class="image">
-        <!-- Replace leila.jpg with an actual photo of Leila in your images folder -->
-        <img src="images/leila_placeholder.jpg" alt="Leila grooming a dog">
-      </div>
+  <!-- Hero slider showcasing Leila -->
+  <section class="hero-slider">
+    <div class="hero-slide slide1"></div>
+    <div class="hero-slide slide2"></div>
+    <div class="hero-slide slide3"></div>
+    <div class="hero-slide slide4"></div>
+    <div class="hero-text">
+      <h1>Meet Leila</h1>
+      <p>The heart behind Molly’s grooming. Skilled, loving and trusted by pups and parents alike.</p>
+      <a class="button" href="estimate.html">Get an Estimate</a>
     </div>
   </section>
 
-  <!-- Services Section -->
-  <section class="container">
+  <!-- Services Overview -->
+  <section class="container" data-aos="fade-up">
     <div class="section-title">
       <h2>Our Grooming Services</h2>
       <p>We offer three core packages tailored to your dog’s needs. Add-ons let you customise the experience even further.</p>
     </div>
     <div class="services">
-      <div class="service-card">
+      <div class="service-card" data-aos="fade-up" data-aos-delay="100">
         <h3>Bath &amp; Brush</h3>
         <p>A gentle bath using premium shampoos followed by a thorough blow dry and brush-out. Includes ear cleaning and nail trim to keep your pup fresh between full grooms.</p>
       </div>
-      <div class="service-card">
+      <div class="service-card" data-aos="fade-up" data-aos-delay="200">
         <h3>Bath &amp; Tidy</h3>
         <p>Everything in the Bath &amp; Brush plus trimming of the face, feet and sanitary areas. Perfect for maintaining your dog’s coat and keeping them looking tidy between haircuts.</p>
       </div>
-      <div class="service-card">
+      <div class="service-card" data-aos="fade-up" data-aos-delay="300">
         <h3>Cut &amp; Style</h3>
         <p>A complete grooming session with a full-body haircut tailored to your dog’s breed or your preferred style. Includes bath, blow dry, brush-out and finishing touches.</p>
       </div>
     </div>
   </section>
 
-  <!-- Why Choose Us Section -->
-  <section class="cta">
+  <!-- Testimonials Section -->
+  <section class="testimonials" data-aos="fade-up">
+    <div class="container">
+      <h2>Happy Dogs &amp; Happier Parents</h2>
+      <div class="testimonial-slider">
+        <div class="testimonial">
+          <p>“Leila transformed my scruffy terrier into a handsome gentleman. Her kindness put him at ease instantly!”</p>
+          <span class="author">– Sarah &amp; Max</span>
+        </div>
+        <div class="testimonial">
+          <p>“Our poodle, Coco, has never looked better. Leila’s attention to detail is unmatched. Five stars!”</p>
+          <span class="author">– Michael &amp; Coco</span>
+        </div>
+        <div class="testimonial">
+          <p>“We appreciate the gentle care and professionalism. Leila truly treats every dog as her own.”</p>
+          <span class="author">– Raj &amp; Bella</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call-to-Action -->
+  <section class="cta" data-aos="fade-up">
     <div class="container">
       <h2>Why Choose Molly’s?</h2>
       <p>Safety, trust and exceptional care are at the core of everything we do. Our highly trained staff follow rigorous safety protocols and deliver five-star hospitality to dogs and people alike. When you book a grooming appointment with Leila, you’re choosing excellence.</p>
@@ -76,5 +95,37 @@
       <p>&copy; 2025 Molly’s Dog Care. All rights reserved.</p>
     </div>
   </footer>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+  <script>
+    // Initialise AOS animations
+    AOS.init({ once: true });
+    // Sticky nav background on scroll
+    window.addEventListener('scroll', () => {
+      const nav = document.getElementById('mainNav');
+      if (window.scrollY > 50) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+    });
+    // Simple testimonial slider: auto-cycle through quotes
+    const testimonials = document.querySelectorAll('.testimonial');
+    let currentIndex = 0;
+    function showTestimonial(index) {
+      testimonials.forEach((el, i) => {
+        el.style.display = i === index ? 'block' : 'none';
+      });
+    }
+    function cycleTestimonials() {
+      currentIndex = (currentIndex + 1) % testimonials.length;
+      showTestimonial(currentIndex);
+    }
+    if (testimonials.length > 0) {
+      showTestimonial(0);
+      setInterval(cycleTestimonials, 7000);
+    }
+  </script>
 </body>
 </html>

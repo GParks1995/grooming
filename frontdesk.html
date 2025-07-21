@@ -12,7 +12,7 @@
 </head>
 <body>
   <!-- Navigation Bar -->
-  <nav>
+  <nav id="mainNav">
     <div class="nav-wrapper container">
       <div class="logo">Molly’s Grooming</div>
       <ul>
@@ -101,5 +101,17 @@
       <p>&copy; 2025 Molly’s Dog Care. All rights reserved.</p>
     </div>
   </footer>
+
+  <!-- Navigation scroll script -->
+  <script>
+    window.addEventListener('scroll', () => {
+      const nav = document.getElementById('mainNav');
+      if (window.scrollY > 50) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+    });
+  </script>
 </body>
 </html>

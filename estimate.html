@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grooming Estimate – Molly’s Dog Care</title>
+  <!-- Fonts and styles -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav>
+    <div class="nav-wrapper container">
+      <div class="logo">Molly’s Grooming</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="estimate.html">Estimate</a></li>
+        <li><a href="frontdesk.html">Front Desk</a></li>
+        <li><a class="button" href="https://mollysdogcare.portal.gingrapp.com/#/public/login">Book Now</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <section class="container">
+    <h2 style="text-align: center; margin-top: 2rem;">Get a Grooming Estimate</h2>
+    <p style="text-align: center;">Use this tool to build an approximate quote for your dog’s grooming. Select your dog’s breed, choose the desired service, add any extras and see your estimated total instantly. Final pricing may vary after consultation.</p>
+  </section>
+
+  <!-- Estimator Form -->
+  <section class="estimate-form">
+    <label for="breedSelect">1. Select your dog’s breed:</label>
+    <select id="breedSelect"></select>
+
+    <label for="serviceSelect">2. Choose a grooming service:</label>
+    <select id="serviceSelect">
+      <option value="bath_brush">Bath &amp; Brush</option>
+      <option value="bath_tidy">Bath &amp; Tidy</option>
+      <option value="cut_style">Cut &amp; Style</option>
+    </select>
+
+    <label>3. Pick your add‑ons (optional):</label>
+    <div id="addonsContainer" class="addon-list"></div>
+
+    <label for="notes">4. Add notes for Leila (behaviour, coat condition, preferences):</label>
+    <textarea id="notes" rows="4" placeholder="Tell us anything we should know about your pup..."></textarea>
+
+    <div class="total" id="totalDisplay">Estimated total: $0</div>
+
+    <button id="submitInquiry">Submit Inquiry</button>
+  </section>
+
+  <!-- Footer -->
+  <footer style="background-color: var(--color-dark); color: white; padding: 1rem 0; text-align: center;">
+    <div class="container">
+      <p>&copy; 2025 Molly’s Dog Care. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/scripts.js"></script>
+</body>
+</html>

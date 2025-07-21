@@ -1,0 +1,1978 @@
+[
+  {
+    "breed": "Affenpinscher",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Afgan Hound",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 130.0,
+      "cut_style": 190.0
+    }
+  },
+  {
+    "breed": "Airedale Terrier",
+    "prices": {
+      "bath_brush": 85,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Akita",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 180.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Alaskan Malamute",
+    "prices": {
+      "bath_brush": 150,
+      "bath_tidy": 190.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Anatolian Shepherd",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 130.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Aussiedoodle",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 130.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Austrailian Shepherd",
+    "prices": {
+      "bath_brush": 85,
+      "bath_tidy": 130.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Azawakh",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Barbet",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Basenji",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Basset Griffon",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Basset Hound",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bavarian Mountain Hound",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Beagle",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bearded Collie",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 150.0,
+      "cut_style": 200.0
+    }
+  },
+  {
+    "breed": "Beauceron",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bedlington Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Belgian Lakenois",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 100.0,
+      "cut_style": 150.0
+    }
+  },
+  {
+    "breed": "Belgian Malinois",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Belgian Sheepdog",
+    "prices": {
+      "bath_brush": 85,
+      "bath_tidy": 110.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Belgian Tervueren",
+    "prices": {
+      "bath_brush": 85,
+      "bath_tidy": 110.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bergamasco",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 150.0,
+      "cut_style": 180.0
+    }
+  },
+  {
+    "breed": "Berger Picard",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Bernedoodle",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 170.0,
+      "cut_style": 210.0
+    }
+  },
+  {
+    "breed": "Bernese Mountain Dog",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bichon Frise",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Biewer Terrier",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 65.0,
+      "cut_style": 80.0
+    }
+  },
+  {
+    "breed": "Black Mouth Cur",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Black Russian Terrier",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 160.0,
+      "cut_style": 210.0
+    }
+  },
+  {
+    "breed": "Black and Tan Coonhound",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Blood Hound",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Boerboel",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bolognese",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Border Collie",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Border Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Borzoi",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 120.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Boston Terrier",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bouvier Des Flandres",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 160.0,
+      "cut_style": 200.0
+    }
+  },
+  {
+    "breed": "Boxer",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Boykin Spaniel",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Bracco Italiano",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Briard",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Brittany Spaniel",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 95.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Brussels Griffon",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 65.0,
+      "cut_style": 80.0
+    }
+  },
+  {
+    "breed": "Bull Mastiff",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bull Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Bulldog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Canaan Dog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Cane Corso",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Cardigan Welsh Corgi",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 80.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Carin Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Carolina Dog",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Catahoula Leopard Dog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Caucasian Shepherd",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 150.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Cavachon",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Cavalier King Charles Spaniel",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Cavapoo",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Cesky Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Chesapeake Bay Retriver",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Chihpoo",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Chihuahua Long Coat",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 75.0,
+      "cut_style": 85.0
+    }
+  },
+  {
+    "breed": "Chihuahua Short Coat",
+    "prices": {
+      "bath_brush": 40,
+      "bath_tidy": 60.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Chinese Crested",
+    "prices": {
+      "bath_brush": 45,
+      "bath_tidy": 55.0,
+      "cut_style": 80.0
+    }
+  },
+  {
+    "breed": "Chinese Crested Powder Puff",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Chiweenie",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 70.0,
+      "cut_style": 85.0
+    }
+  },
+  {
+    "breed": "Chow Chow",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Clumber Spaniel",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Cockapoo",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Cocker Spaniel",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Coton De Tulear",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Croatian Sheepdog",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Curly-Coated Retriever",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 95.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Dachshund Long",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Dachshund Smooth",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 75.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Dachshund Wire",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Dalmatian",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Dandie Dinmont",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Doberman Pinscher",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Dogo Argentino",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Douge De Bordeaux",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Dutch Shepherd",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "English Setter",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "English Springer Spaniel",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "English Toy Spaniel",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Eurasier",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 140.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Field Spaniel",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Finnish Lapphund",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 140.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Finnish Spitz",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Flat-Coated Retriever",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 130.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Foxhound",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "French Bulldog",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "French Spaniel",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 90.0,
+      "cut_style": 110.0
+    }
+  },
+  {
+    "breed": "German Pinscher",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "German Shepherd",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "German Shorthair Pointer",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "German Spitz",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "German Wirehair Pointer",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Giant Schnauzer",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 120.0,
+      "cut_style": 180.0
+    }
+  },
+  {
+    "breed": "Glen of Imaal Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Golden Retriever",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 140.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Goldendoodle L (46-65lbs)",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 130.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Goldendoodle M (20-45lbs)",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 110.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Goldendoodle S (0-19lbs)",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Goldendoodle XL (66lbs +)",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 160.0,
+      "cut_style": 180.0
+    }
+  },
+  {
+    "breed": "Gordon Setter",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 130.0,
+      "cut_style": 190.0
+    }
+  },
+  {
+    "breed": "Great Dane",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Great Pyrenees",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Greater Swiss Mountain Dog",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Greyhound",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Havanese",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Hokkaido",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 85.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Hovawart",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 95.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Ibizan Hound Smooth",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 75.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Ibizan Hound Wire",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Icelandic Sheepdog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Irish Red and White Setter",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Irish Setter",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Irish Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Irish Water Spaniel",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Irish Wolfhound",
+    "prices": {
+      "bath_brush": 160,
+      "bath_tidy": 180.0,
+      "cut_style": 220.0
+    }
+  },
+  {
+    "breed": "Italian Grey Hound",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Jack Russell Terrier Rough",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Jack Russell Terrier Smooth",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Jagdterrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Japanese Chin",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 65.0,
+      "cut_style": 85.0
+    }
+  },
+  {
+    "breed": "Jindo",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 80.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Karelian Bear Dog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Keeshond",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 140.0,
+      "cut_style": 170.0
+    }
+  },
+  {
+    "breed": "Kerry Blue Terrier",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Komondor",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 180.0,
+      "cut_style": 210.0
+    }
+  },
+  {
+    "breed": "Koolie",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Kuvasz",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Labradoodle",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 110.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Labrador Retriever",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Lagotto Romagnolo",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 110.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Lakeland Rerrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Leonberger",
+    "prices": {
+      "bath_brush": 150,
+      "bath_tidy": 190.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Lhasa Apso",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Llewellin Setter",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 140.0
+    }
+  },
+  {
+    "breed": "Lowchen",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Maltese",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 65.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Maltipoo",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Manchester Terrier",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Mastiff",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Miniature American Shepherd/Aussie",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Miniature Pinscher",
+    "prices": {
+      "bath_brush": 45,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Miniature Schnauzer",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Morkie",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Mudi",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Newfiedoodle",
+    "prices": {
+      "bath_brush": 130,
+      "bath_tidy": 190.0,
+      "cut_style": 230.0
+    }
+  },
+  {
+    "breed": "Newfoundland",
+    "prices": {
+      "bath_brush": 150,
+      "bath_tidy": 190.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Norfolk Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Norwegian Buhund",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Norwegian Elkhound",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 90.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Norwegian Lundehund",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Norwich Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Nova Scotia Duck Tolling Retriever",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 95.0,
+      "cut_style": 110.0
+    }
+  },
+  {
+    "breed": "Old English Sheepdog",
+    "prices": {
+      "bath_brush": 120,
+      "bath_tidy": 180.0,
+      "cut_style": 230.0
+    }
+  },
+  {
+    "breed": "Otterhound",
+    "prices": {
+      "bath_brush": 85,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Papillon",
+    "prices": {
+      "bath_brush": 55,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Parson Russell Teriier Rough",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Parson Russell Terrier Smooth",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Patterdale Terrier",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Pekingese",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Peruvian Inca Orchid",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Pharaoh Hound",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Pit Bull",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Plott Hound",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 95.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Polish Lowland Sheepdog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Pomapoo",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Pomchi",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Pomeranian",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Pomski",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 85.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Poochon",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Poodle (Miniature)",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 85.0,
+      "cut_style": 115.0
+    }
+  },
+  {
+    "breed": "Poodle (Standard)",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 130.0,
+      "cut_style": 170.0
+    }
+  },
+  {
+    "breed": "Poodle (Toy)",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Portuguese Water Dog",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 130.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Presa Canario",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Pudelpointer",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Pug",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 75.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Puggle",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Puli",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 140.0,
+      "cut_style": 170.0
+    }
+  },
+  {
+    "breed": "Pumi",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 140.0
+    }
+  },
+  {
+    "breed": "Rat Terrier",
+    "prices": {
+      "bath_brush": 45,
+      "bath_tidy": 60.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Redbone Coonhound",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Rhodesian Ridgeback",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Rottweiler",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 130.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Rough Collie",
+    "prices": {
+      "bath_brush": 110,
+      "bath_tidy": 150.0,
+      "cut_style": 180.0
+    }
+  },
+  {
+    "breed": "Russian Toy",
+    "prices": {
+      "bath_brush": 45,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Russian Tsvetnaya Bolonka",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Saint Bernadoodle",
+    "prices": {
+      "bath_brush": 140,
+      "bath_tidy": 180.0,
+      "cut_style": 220.0
+    }
+  },
+  {
+    "breed": "Saint Bernard",
+    "prices": {
+      "bath_brush": 140,
+      "bath_tidy": 170.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Saluki",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 95.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Samoyed",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 120.0,
+      "cut_style": 150.0
+    }
+  },
+  {
+    "breed": "Schipperke",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 95.0
+    }
+  },
+  {
+    "breed": "Schnoodle",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Scottish Deerhound",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 110.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Scottish Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 95.0
+    }
+  },
+  {
+    "breed": "Sealyham Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Shar Pei",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Sheepdaoodle",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 160.0,
+      "cut_style": 200.0
+    }
+  },
+  {
+    "breed": "Sheltipoo",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Shetland Sheep Dog",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 85.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Shiba Inu",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Shih Tzu",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Shihpoo",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Shikoku",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Shorkie",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Siberian Husky",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 120.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Silken Windhound",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Silky Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Skye Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Smooth Collie",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Soft Coated Wheaten Terrier",
+    "prices": {
+      "bath_brush": 90,
+      "bath_tidy": 130.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Spanish Water Dog",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Spinone Italiano",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Springerdoodle",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 120.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Staffodshire Terrier",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Standard Schnauzer",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 95.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Sussex Spaniel",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Swedish Lapphund",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Swedish Vallhund",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Tibetan Mastiff",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 110.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Tibetan Spaniel",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Tibetan Terrier",
+    "prices": {
+      "bath_brush": 75,
+      "bath_tidy": 90.0,
+      "cut_style": 120.0
+    }
+  },
+  {
+    "breed": "Tornjak",
+    "prices": {
+      "bath_brush": 100,
+      "bath_tidy": 140.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Tosa",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 120.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Toy Fox Terrier",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 75.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Treeing Walker Coonhound",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 100.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Vizsla Rough",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 140.0
+    }
+  },
+  {
+    "breed": "Vizsla Smooth",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Volpino Italiano",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 110.0
+    }
+  },
+  {
+    "breed": "Weimaraner",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Welsh Corgi",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 80.0,
+      "cut_style": 100.0
+    }
+  },
+  {
+    "breed": "Welsh Springer Spaniel",
+    "prices": {
+      "bath_brush": 70,
+      "bath_tidy": 90.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Welsh Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "West Highland Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Wetterhoun",
+    "prices": {
+      "bath_brush": 65,
+      "bath_tidy": 90.0,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Wheatadoodle",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 160.0
+    }
+  },
+  {
+    "breed": "Whippet",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Wire Fox Terrier",
+    "prices": {
+      "bath_brush": 60,
+      "bath_tidy": 75.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Wirehaired Pointing Griffon",
+    "prices": {
+      "bath_brush": 80,
+      "bath_tidy": 100.0,
+      "cut_style": 130.0
+    }
+  },
+  {
+    "breed": "Xoloitzcuintli",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": null,
+      "cut_style": null
+    }
+  },
+  {
+    "breed": "Yorkiepoo",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  },
+  {
+    "breed": "Yorkshire Terrier",
+    "prices": {
+      "bath_brush": 50,
+      "bath_tidy": 70.0,
+      "cut_style": 90.0
+    }
+  }
+]

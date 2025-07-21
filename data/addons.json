@@ -1,0 +1,139 @@
+[
+  {
+    "addon": "Clean Face",
+    "prices": [
+      20.0
+    ]
+  },
+  {
+    "addon": "Clean Feet",
+    "prices": [
+      25.0
+    ]
+  },
+  {
+    "addon": "Dematting",
+    "prices": [
+      20.0
+    ]
+  },
+  {
+    "addon": "Dematting (per minute over 20 mins)",
+    "prices": [
+      5.0
+    ]
+  },
+  {
+    "addon": "Dental Care Package",
+    "prices": [
+      20.0,
+      30.0
+    ]
+  },
+  {
+    "addon": "Ear Plucking",
+    "prices": [
+      20.0
+    ]
+  },
+  {
+    "addon": "Ear Plucking/Cleaning",
+    "prices": [
+      20.0,
+      30.0
+    ]
+  },
+  {
+    "addon": "Express Fee",
+    "prices": [
+      75.0
+    ]
+  },
+  {
+    "addon": "Flea and Tick Treatment",
+    "prices": [
+      25.0
+    ]
+  },
+  {
+    "addon": "Gland Expression",
+    "prices": [
+      20.0
+    ]
+  },
+  {
+    "addon": "Intense Treatment mask",
+    "prices": [
+      20.0
+    ]
+  },
+  {
+    "addon": "Nail Grind",
+    "prices": [
+      20.0,
+      30.0
+    ]
+  },
+  {
+    "addon": "Pampered Paws",
+    "prices": [
+      50.0,
+      60.0
+    ]
+  },
+  {
+    "addon": "Paw Fizz Treatment",
+    "prices": [
+      15.0
+    ]
+  },
+  {
+    "addon": "Paw and Nose Balm",
+    "prices": [
+      15.0
+    ]
+  },
+  {
+    "addon": "Paw balm",
+    "prices": [
+      15.0,
+      20.0
+    ]
+  },
+  {
+    "addon": "Seasonal Spa",
+    "prices": [
+      30.0
+    ]
+  },
+  {
+    "addon": "Shed-less Package",
+    "prices": [
+      40.0
+    ]
+  },
+  {
+    "addon": "Skunked",
+    "prices": [
+      30.0
+    ]
+  },
+  {
+    "addon": "Soothing Honey Spa",
+    "prices": [
+      30.0
+    ]
+  },
+  {
+    "addon": "Specialty Shampoo",
+    "prices": [
+      15.0
+    ]
+  },
+  {
+    "addon": "Spoiled Puppy Spa",
+    "prices": [
+      15.0
+    ]
+  }
+]
